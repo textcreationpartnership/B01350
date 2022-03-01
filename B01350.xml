@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the burning of the Pope at Temple-Bar in London, November 17. 1769.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01350</idno>
+            <idno type="STC">Wing A257A</idno>
+            <idno type="STC">ESTC R173145</idno>
+            <idno type="EEBO-CITATION">51784345</idno>
+            <idno type="OCLC">ocm 51784345</idno>
+            <idno type="VID">174773</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01350)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174773)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2697:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the burning of the Pope at Temple-Bar in London, November 17. 1769.</title>
+               </titleStmt>
+               <extent>[12] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication taken from Wing (2nd ed.)</note>
+                  <note>Includes 2 illustrations, p. [10] and [11].</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Anti-Catholicism --  Great Britain --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:174773:1"/>
+            <head>An Account of the Burning the <hi>Pope</hi> at
+<hi>Temple-Bar</hi> in <hi>London,</hi> November <hi>17. 1679.</hi>
+            </head>
+            <p>THE horrid Deſigns and Contrivances of the <hi>Papiſts</hi> for many years laſt paſt, for rooting out the <hi>Proteſtant</hi> Religion from under Heaven in this Kingdom as well as in all the
+<hi>Proteſtant</hi> Countries in <hi>Europe,</hi> has raiſed ſuch a juſt indignation in the breaſt of every good Chriſtian and True
+<hi>Engliſhman,</hi> That the people of this Nation have upon all occaſions endeavoured to diſcover their generous Deteſtati<g ref="char:EOLhyphen"/>on of thoſe curſed Invaders of their <hi>Religion</hi> and <hi>Civil Liberties;</hi> but never more apparently, then upon the 17th. of <hi>November</hi> 1679. that being the day on which the unfortunate Queen <hi>Mary</hi> died, and that Glorious Princeſs Queen <hi>Elizabeth,</hi> that <hi>True Defender</hi> of the Chriſtian Proteſtant Faith, aſcended the <hi>Engliſh</hi> Throne, and thereby diſpel<g ref="char:EOLhyphen"/>led thoſe thick Clouds of <hi>Egyptian Popiſh</hi> Dark<g ref="char:EOLhyphen"/>neſs, which had ſo long over-ſpread theſe King<g ref="char:EOLhyphen"/>doms.</p>
+            <p>Upon the ſaid 17th. of <hi>November,</hi> the Bells be<g ref="char:EOLhyphen"/>gan to ring about Three a Clock in the Morning <pb facs="tcp:174773:2"/>in the City of <hi>London;</hi> and ſeveral Honourable and Worthy Gentlemen belonging to the <hi>Temple,</hi> as well as the City (remembering the burning both of <hi>London</hi> and the <hi>Temple,</hi> which was appa<g ref="char:EOLhyphen"/>rently Executed by <hi>Popiſh</hi> Villany) were pleaſed to be at the charge of an Extraordinary Triumph, in commemoration of that bleſſed
+<hi>Proteſtant</hi> Queen, which was as follows:</p>
+            <p>In the Evening of the ſaid day, all things be<g ref="char:EOLhyphen"/>ing prepared, the <hi>Solemn Proceſſion</hi> began, from <hi>Moregate,</hi> and ſo to
+<hi>Biſhops-gate-ſtreet,</hi> and down <hi>Hounſditch</hi> to
+<hi>Aldgate;</hi> through <hi>Leaden-Hall-ſtreet, Cornhil,</hi> by the
+<hi>Royal Exchange,</hi> through <hi>Cheapſide</hi> to <hi>Temple-Bar,</hi> in Order following,</p>
+            <p>1. Firſt marched ſix Whifflers in Pioneer. Caps and Red Waſtcoats. 2. A Bellman ringing his Bell, and with a doleſome voice, crying al the way, <hi>Remember Juſtice</hi> Godfrey. 3. A dead Body repreſenting Juſtice <hi>Godfrey</hi> in the habit he uſually wore, and the
+<hi>Crevat</hi> wherewith he wa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> murdered, about his Neck, with ſpots of Blood on his Wriſts, Breaſts and Shirt, and White Gloves on his Hands, his Face pale and wan riding upon a White Horſe, and one of his Mur<g ref="char:EOLhyphen"/>derers behind him to keep him from falling, in the ſame manner as he was carried to <hi>Primroſe Hill.</hi> 4. A Prieſt came next in a Surplice, and <pb facs="tcp:174773:3"/>Cope Imbroidered with Dead mens <hi>Sculls</hi> and <hi>Bones,</hi> and
+<hi>Skeletons,</hi> who gave out Pardons very plentifully to all that would murder <hi>Proteſtants,</hi> and proclaiming it <hi>Meritorious.</hi> 5. A Prieſt alone with a large Silver Croſs. 6. Four <hi>C<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>melite Fryars</hi> in White and Black Habits. 7. Four <hi>Grey Fryars</hi> in their proper Habits. 8. Six <hi>Jeſu<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi> carrying bloody Daggers.
+9. Four wind Mu<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ck, called the <hi>Waits,</hi> playing all the way. 10. Four <hi>Biſhops</hi> in Purple, with Lawn ſleeves, and <hi>Golden Croſſes</hi> on their Breaſts, and
+<hi>Croſier Staves</hi> in their hands. 11. Four other Biſhops in their
+<hi>Pontifi<g ref="char:EOLhyphen"/>calibus,</hi> with Surplices and Rich imbroidered Copes, and Golden Miters on their Heads. 12. Six Cardinals in Searlet Robes and Caps. 13. Then followed the Popes Chief Phyſician with <hi>Jeſuits</hi> powder in one hand, and an Urinal in the other. 14. Two Prieſts in Surplices, with Two Golden Croſſes. Laſtly, The <hi>Pope</hi> in a Glorious Pageant, or Chair of State, covered with Scar<g ref="char:EOLhyphen"/>let, the Chair being richly Embroidered and be<g ref="char:EOLhyphen"/>deckt with Golden Balls and Croſſes; at his Feet was a Cuſhion of State, and Two Boys ſate on each ſide the Pope, in Surplices with White Silk Banners, painted with Red Croſſes, and bloody Conſecrated Daggers for murdering <hi>Proteſtant</hi> Kings and Princes, with an Incenſe Pot before <pb facs="tcp:174773:4"/>them, Cenſing his Holineſs. The <hi>Pope</hi> was array<g ref="char:EOLhyphen"/>ed in a rich Scarlet Gown, lined through with Er<g ref="char:EOLhyphen"/>mines, and adorned with Gold and Silver Lace, with a <hi>Triple Crown</hi> on his Head, and a Glorious Collar of Gold and precious ſtones about his neck, and St. <hi>Peters</hi> Keys, a great quantity of <hi>Beads, Agnus Dei's,</hi> and other <hi>Catholick</hi> Trumpe<g ref="char:EOLhyphen"/>ry about him. At his Back ſtood the Divel, <hi>His Holineſs</hi> Privy Councillor, Hugging and Whiſper<g ref="char:EOLhyphen"/>ing, him all the way, and oftentimes inſtructing him aloud to deſtroy His Majeſty, to contrive a pretended <hi>Presbyterian</hi> Plot, and to <hi>fire the City</hi> again, to which purpoſe he held an <hi>Infernal Torch</hi> in his hand; The whole Proceſſion was attended with an Hundred and Fifty Torches and Flam<g ref="char:EOLhyphen"/>beaus by Order, but there were ſo many came in Voluntiers, as made the number to be ſeveral Thouſands. Never were the Balconies, Win<g ref="char:EOLhyphen"/>dows and Houſes more filled, nor the Streets more thronged with multitudes of People, all expreſ<g ref="char:EOLhyphen"/>ſing their Abhorrence of Popery with continual Shouts and Acclamations, ſo that in the whole pro<g ref="char:EOLhyphen"/>greſs of their proceſſion, by a modeſt computati<g ref="char:EOLhyphen"/>on it is judged there could not be leſs then Two Hundred Thouſand Spectators.</p>
+            <p>Thus with a ſlow and ſolemn ſtate in ſome hours they arrived at <hi>Temple-bar,</hi> where all the <pb facs="tcp:174773:5"/>Houſes ſeemed to be converted into Heaps of Men, Women and Children, who were diverted with variety of Excellent Fireworks: It is known that
+<hi>Temple-bar</hi> ſince its rebuilding is adorned with Four ſtately Statues of ſtone, Two on each ſide the Gate, Thoſe toward the City Repreſenting Queen <hi>Elizabeth</hi> and King <hi>James,</hi> and the other Two toward the <hi>Strand,</hi> King <hi>Charles</hi> the Firſt, and our preſent Gracious Sovereign; Now in re<g ref="char:EOLhyphen"/>gard of the day, the Statue of Queen
+<hi>Elizabeth</hi> was adorned with a Crown of gilded Lawrel on her Head, and in her hand a Golden ſheild with this Motto inſcribed thereon, <hi>The Proteſtant Re<g ref="char:EOLhyphen"/>ligion, Magna Charta;</hi> ſeveral lighted Torches were placed before her, and the Pope being brought up near the Gate, the Song following was ſing in parts, between one who repreſented the
+<hi>Engliſh</hi> Cardinal <hi>Howard,</hi> and another the People of
+<hi>England.</hi>
+            </p>
+            <sp>
+               <lg>
+                  <head>Cardinal <hi>Howard.</hi>
+                  </head>
+                  <l>
+                     <hi>From</hi> York <hi>to</hi> London <hi>Town we come</hi>
+                  </l>
+                  <l>
+                     <hi>to talk of</hi> Popiſh <hi>Ire,</hi>
+                  </l>
+                  <l>
+                     <hi>To Reconcile you all to</hi> Rome,</l>
+                  <l>
+                     <hi>And prevent</hi> Smithfield <hi>Fire.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <pb facs="tcp:174773:6"/>
+            <sp>
+               <lg>
+                  <head>The People Anſwer.</head>
+                  <l>
+                     <hi>Ceaſe! Ceaſe! thou</hi> Norfolk Cardinal,</l>
+                  <l>
+                     <hi>See yonder ſtands Queen</hi> Beſs,</l>
+                  <l>
+                     <hi>Who ſav'd our Souls from</hi> Popiſh Thrall,</l>
+                  <l>
+                     <hi>O Queen</hi> Beſs, <hi>Queen</hi> Beſs,
+<hi>Queen</hi> Beſs,</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Your Popiſh</hi> Plot <hi>and</hi> Smithfield
+<hi>Threat,</hi>
+                  </l>
+                  <l>
+                     <hi>We do not fear at all,</hi>
+                  </l>
+                  <l>
+                     <hi>For Loe! beneath Queen</hi> Beſſes
+<hi>feet,</hi>
+                  </l>
+                  <l>
+                     <hi>You</hi> fall, <hi>you</hi> fall, <hi>you</hi> fall.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Now God preſerve Great</hi> CHARLES <hi>our King.</hi>
+                  </l>
+                  <l>
+                     <hi>And eke all</hi> Honeſt <hi>men;</hi>
+                  </l>
+                  <l>
+                     <hi>And</hi> Traytors all <hi>to Juſtice bring,</hi>
+                  </l>
+                  <l>
+                     <hi>Amen, Amen, Amen.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <p>Then having entertained the thronging Spe<g ref="char:EOLhyphen"/>ctators for ſome time with the Ingenious Fire<g ref="char:EOLhyphen"/>works, a very great Bonefire was prepared at the
+<hi>Inner-Temple-Gate,</hi> and his <hi>Holineſs</hi> after ſome Complements and Reluctancies was decently tumbled into the Flames, the Devil who till then had faithfully Accompanied him, left his Holineſs in the Lurch, and laughing, gave him up to his Deſerved Fate. This laſt Act of his
+<hi>Holineſs</hi> Tra<g ref="char:EOLhyphen"/>gedy was attended with ſuch a prodigious Shout
+<pb facs="tcp:174773:7"/>of the joyful Spectators, that it might be heard far beyond <hi>Sommerſet-Houſe,</hi> and we hope the ſound thereof will reach all <hi>Europe.</hi> The ſame Evening there were Bonfires in moſt ſtreets of <hi>London,</hi> and univerſal Acclamations, Long live King <hi>Charles,</hi> and let <hi>Popery</hi> periſh, and <hi>Papiſts</hi> with their Plots and Counter-Plots be for ever Confounded as they have hitherto been. To which every honeſt <hi>Engliſh</hi> Man will readily ſay,
+<hi>Amen.</hi>
+            </p>
+            <pb facs="tcp:174773:8"/>
+            <figure>
+               <head>The Discovery of the Popish Plot</head>
+               <byline>J Hulitt sculp</byline>
+               <figDesc>Guy Fawkes is arrested by two guards under the House of Lords. A third guard carries a torch.</figDesc>
+            </figure>
+            <pb facs="tcp:174773:9"/>
+            <figure>
+               <p>Spaina mea</p>
+               <p>Maria mater Anglicana</p>
+               <p>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ra Iu<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i est ecleſia</p>
+               <p>Vanitas</p>
+               <p>Romana incr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia noviera</p>
+               <p>Familia mea</p>
+               <p>Maria <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+               <figure>
+                  <head>Fixus adverſa Sperno</head>
+                  <figDesc>Hammerton family blazon or coat of arms</figDesc>
+                  <figDesc>Roman Catholic clerics watch a man return to the Protestant church.</figDesc>
+               </figure>
+               <lg>
+                  <l>Heere to the Church, one of her yongeſt Sonnes,</l>
+                  <l>Proſtrate preſents, theſe Lucubrations,</l>
+                  <l>Hee Feares not her harſh, Cenſure for hee knowes,</l>
+                  <l>Mothers are kind, and ſhee the beſt of thoſe,</l>
+                  <l>Her Benediction, if ſhee pleaſe to give</l>
+                  <l>T'evill make the Authour, and his Lynes to Live,</l>
+                  <l>Then though Rome Curſe, t'ſhall never trouble him,</l>
+                  <l>Though Rome be Eball, here's his Gerizim,</l>
+               </lg>
+            </figure>
+         </div>
+      </body>
+   </text>
+</TEI>
